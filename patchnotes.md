@@ -1,3 +1,8 @@
+## May 25th, 2022
+- Added a new matrix view, showing all characters and tasks at once in a nice compact view. (Beta testing - please report feedback)
+- Hid the character re-order buttons by default. There's a new toggle button to show them at the top of the Overview section.
+- Adjusted the colours on the pink theme slightly for better usability. 
+
 ## May 20th, 2022
 - Enabled Destroyer class.
 - Added support for the Wild Wings Island event (its roster weekly vendor) and the Challenge Guardians event (roster weekly completion).
