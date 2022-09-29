@@ -1,3 +1,45 @@
+# September 29th, 2022
+
+- Added Kakul Saydon Legion Raid to the main view and the matrix.
+- Removed event info section.
+- Added support buttons.
+- Added gear score requirements to abyssal and legion raids.
+
+# September 20th, 2022
+  
+- Enabled Machinist class in the class selector.
+    
+# July 20th, 2022
+  
+- Enabled Arcana in the class selector.
+- Added Challenge Abyssals to roster weekly.
+- ...water fight will be added when we know more.
+
+# July 7th, 2022
+  
+- Fixed world events to match reset day change (portal/adventure island/ghost ship and world bosses).
+
+# July 5th, 2022
+  
+- Switched to new reset day. This is complicated...
+- Rest bonus will be incorrect next week due to the reset day change 😡
+- Please manually correct your rest bonus after the first Wednesday reset and they should be fine going forward.
+
+
+# June 29th, 2022
+  
+- Added Vykas, ready for tomorrow.
+- Linked the checkboxes for Valtan and Vykas.
+- Removed old events in preperation for new ones.
+
+# June 1st, 2022
+
+- Added rest bonus highlighting to the matrix view.
+
+# May 25th, 2022
+
+- Made a fix for the character delete button being hard to use sometimes. Thanks to tzuku for the report.
+
 ## May 25th, 2022
 - Added a new matrix view, showing all characters and tasks at once in a nice compact view. (Beta testing - please report feedback)
 - Hid the character re-order buttons by default. There's a new toggle button to show them at the top of the Overview section.
