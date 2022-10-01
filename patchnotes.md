@@ -1,3 +1,6 @@
+# October 1st, 2022
+- Put the Machinist back into his right class. Thanks ghosttechx.
+
 # September 29th, 2022
 
 - Added Kakul Saydon Legion Raid to the main view and the matrix.
