@@ -1,5 +1,6 @@
 # October 30th, 2022
 - Added class engravings for the classes: Glavier, Destroyer, Arcana and Machinist. Thanks to shyce for the report.
+- Removed redundant setting for event carousel.
 
 # October 1st, 2022
 - Put the Machinist back into his right class. Thanks ghosttechx.
