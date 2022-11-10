@@ -1,5 +1,5 @@
 # November 10th, 2022</h2>
- -Added obsolete notice to the tripod planning page as it should not be needed after the upcoming game update.
+- Added obsolete notice to the tripod planning page as it should not be needed after the upcoming game update.
 
 # October 30th, 2022
 - Added class engravings for the classes: Glavier, Destroyer, Arcana and Machinist. Thanks to shyce for the report.
