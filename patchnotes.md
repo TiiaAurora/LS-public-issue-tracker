@@ -1,4 +1,10 @@
-# November 10th, 2022</h2>
+# December 8th, 2022
+- Somehow we missed the poor Reaper - enabled!
+
+# December 6th, 2022
+- Enabled the new Summoner class and its engravings.
+
+# November 10th, 2022
 - Added obsolete notice to the tripod planning page as it should not be needed after the upcoming game update.
 
 # October 30th, 2022
