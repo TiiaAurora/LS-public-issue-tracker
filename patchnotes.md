@@ -1,3 +1,6 @@
+# December 18th, 2022
+- Added Brelshaza Legion Raid to the main view and the matrix.
+
 # December 8th, 2022
 - Somehow we missed the poor Reaper - enabled!
 
