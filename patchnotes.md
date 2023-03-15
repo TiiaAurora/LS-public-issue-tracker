@@ -1,5 +1,5 @@
 # March 14th, 2023
-- Enabled Painter early! Will add engravings when we know how they're translated.
+- Added the Painter's engravings and renamed to Artist.
 
 # March 7th, 2023
 - Enabled Painter early! Will add engravings when we know how they're translated.
