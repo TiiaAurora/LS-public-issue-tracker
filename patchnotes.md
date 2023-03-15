@@ -1,3 +1,9 @@
+# March 14th, 2023
+- Enabled Painter early! Will add engravings when we know how they're translated.
+
+# March 7th, 2023
+- Enabled Painter early! Will add engravings when we know how they're translated.
+
 # December 18th, 2022
 - Added Brelshaza Legion Raid to the main view and the matrix.
 
