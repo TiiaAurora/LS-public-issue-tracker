@@ -1,3 +1,16 @@
+# May 20th, 2023
+- Added Slayer class engravings.
+- Remove the end date for the Ark Pass.
+- Updated Argos required item level.
+- Removed the third challenge abyssal checkbox.
+
+# May 7th, 2023
+- Added Slayer class (without engravings for now).
+- Aeromancer class is also added but disabled.
+
+# March 15th, 2023
+- Fixed a recent problem that crashed the site when new characters were added. Blame the Artist!
+
 # March 14th, 2023
 - Added the Painter's engravings and renamed to Artist.
 
