@@ -1,3 +1,7 @@
+# August 28th, 2023
+- Enabled Aeromancer!
+- Added Aeromancer engravings.
+
 # May 20th, 2023
 - Added Slayer class engravings.
 - Remove the end date for the Ark Pass.
