@@ -1,3 +1,8 @@
+# October 11th, 2023
+- Added Kayangel and Akkan
+- Adjusted gate count for Vykas and Brelshaza
+- Highlighted Brelshaza gate 4 as we can't easily support the two-week reset period
+
 # August 28th, 2023
 - Enabled Aeromancer!
 - Added Aeromancer engravings.
